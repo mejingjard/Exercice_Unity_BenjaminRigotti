@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 1dc0f5259a36651499827e5efcd01e0f
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: GFHoue_Ground1
+    100002: //RootNode
+    100004: Marge1
+    100006: Marge2
+    100008: polySurface20
+    100010: polySurface21
+    100012: polySurface23
+    100014: polySurface24
+    100016: polySurface25
+    100018: polySurface26
+    100020: polySurface27
+    100022: polySurface28
+    100024: polySurface29
+    100026: polySurface31
+    100028: polySurface9
+    100030: transform1
+    100032: transform10
+    100034: transform11
+    100036: transform12
+    100038: transform13
+    100040: transform2
+    100042: transform3
+    100044: transform4
+    100046: transform5
+    100048: transform6
+    100050: transform7
+    100052: transform8
+    100054: transform9
+    100056: WallPart
+    400000: GFHoue_Ground1
+    400002: //RootNode
+    400004: Marge1
+    400006: Marge2
+    400008: polySurface20
+    400010: polySurface21
+    400012: polySurface23
+    400014: polySurface24
+    400016: polySurface25
+    400018: polySurface26
+    400020: polySurface27
+    400022: polySurface28
+    400024: polySurface29
+    400026: polySurface31
+    400028: polySurface9
+    400030: transform1
+    400032: transform10
+    400034: transform11
+    400036: transform12
+    400038: transform13
+    400040: transform2
+    400042: transform3
+    400044: transform4
+    400046: transform5
+    400048: transform6
+    400050: transform7
+    400052: transform8
+    400054: transform9
+    400056: WallPart
+    2300000: polySurface31
+    2300002: //RootNode
+    3300000: polySurface31
+    3300002: //RootNode
+    4300000: polySurface31
+    4300002: GFHouseInner1
+    4300004: GFHouseInner
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.20000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

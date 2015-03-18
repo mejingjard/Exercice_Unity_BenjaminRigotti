@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CanalWater
+  m_Shader: {fileID: 4800000, guid: 242f3475e916d754a95f1494b79e368e, type: 3}
+  m_ShaderKeywords: 
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterBack
+        second:
+          m_Texture: {fileID: 2800000, guid: 26bacafbb4599a14b899d62abbf329bc, type: 3}
+          m_Scale: {x: 2, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterFront
+        second:
+          m_Texture: {fileID: 2800000, guid: 4c220a61d5d9ff84c9afd7ec5f1f75aa, type: 3}
+          m_Scale: {x: 3, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Sampler
+        second:
+          m_Texture: {fileID: 2800000, guid: 26bacafbb4599a14b899d62abbf329bc, type: 3}
+          m_Scale: {x: 1, y: 4}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Mask
+        second:
+          m_Texture: {fileID: 2800000, guid: 4c220a61d5d9ff84c9afd7ec5f1f75aa, type: 3}
+          m_Scale: {x: 3, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __WaterBack
+        second:
+          m_Texture: {fileID: 2800000, guid: 26bacafbb4599a14b899d62abbf329bc, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __WaterFront
+        second:
+          m_Texture: {fileID: 2800000, guid: 4c220a61d5d9ff84c9afd7ec5f1f75aa, type: 3}
+          m_Scale: {x: 3, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _WaterSpeed
+        second: .460000008
+      data:
+        first:
+          name: _Speed1
+        second: 5
+      data:
+        first:
+          name: _Speed2
+        second: 5
+      data:
+        first:
+          name: __WaterSpeed
+        second: .319999993
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _WaterTint
+        second: {r: .779411793, g: .779411793, b: .779411793, a: 1}
+      data:
+        first:
+          name: __WaterTint
+        second: {r: .154411793, g: .154411793, b: .154411793, a: 1}

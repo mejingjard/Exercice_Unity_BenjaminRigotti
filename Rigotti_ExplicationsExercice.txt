@@ -1,0 +1,57 @@
+Bonjour!
+
+Ce projet étant assez volumineux, voici quelques petites explications de tout le travail!
+
+C'est à l'origine un projet personnel fait sur mon temps libre,
+auquel j'ai pensé pour le combiner au travail demandé.
+
+Donc avant toute chose, oui, tous ces assets sont entièrement de moi, modé, texture, animation.. etc!
+Ils ont etés réalisé sur plusieures semaines de travail, (notement 2 semaines juste pour le personnage)
+
+Ils sont tous fait sur Maya (modé, rig, skin, anim), texture a photoshop.
+Voila pour la partie visuelle.
+
+Mon apport sous Unity: 
+	-intégration essentiellement (ca fait un bon paquet d'assets a placer)
+	-utilisation du terrain (sculpture, texture, trees, vegetation)
+	-créations de Shaders specifiques a mon projet (les effets de textures animées)
+	-création de FXs
+	-intégration de son (musique principalement)
+	-importation des animations et du personnage
+
+
+
+!!!!!Dans les assets fourni, vous verrez parfois des glowmap, elles sont utilisées par un shader de mon cru sous unity,
+aussi n'y aura t'il pas tous les effets si vous regardez les modeles sous maya/max.
+Comme je travaille directement la texture sous Unity (pour avoir le rendu avec mes shaders),
+les textures ne sont pas liées aux modèles sous le logiciel 3D.
+J'ai essayé de tout vous fournir, mais il y'a une certaine quantité de props modélisé, aussi c'est un peu
+compliqué de faire le tri.
+Les modèles animés sont en .mb, Unity acceptant directement les fichiers maya et les convertissant à sa sauce.
+Voila, je vous met aussi quelques que screens de mes shaders sous un editeur nodal aussi!!!!!
+
+
+
+Le tout pour au final donner les 3 scenes que vous avez devant les yeux!
+Afin de bien séparer ce que j'ai réaliser avant ce travail et ce que j'ai fais pour l'exercice,
+encore quelques details:
+
+-La scène du village, de la forêt (pas encore terminée helas), personnage, ennemis
+datent d'avant l'exercice.
+-La scene dans le temple ainsi que l'exterieur du temple visible dans la foret ont eté fait durant
+l'exercice. 
+
+la scène du temple illustre aussi l'utilisation d'éléments modulaires afin de créer un interieur.
+
+J'ai réalisé le trailer a partir de vidéos du projets prises avec FRAPS, montées sous After Effects,
+avec quelques cartons fais sous photoshop. (Enjmin, Unity5 et le titre du jeu).
+
+A noter: le travail a été réalisé en collaboration avec Lucas le Gouic, qui à réalisé l'essentiel 
+du code necessaire (bien que peu visible), 
+je citerai principalement: une caméra digne de ce nom qui m'a permi de faire les travelings
+dans les scenes, les rotations autour du personnage/combat, ainsi que les animations lors du combat
+qui commencent a prendre forme.
+
+Cordialement,
+Benjamin
+

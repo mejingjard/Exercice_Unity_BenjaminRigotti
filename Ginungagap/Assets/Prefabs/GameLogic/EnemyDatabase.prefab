@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &156376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 467522}
+  - 114: {fileID: 11431964}
+  m_Layer: 0
+  m_Name: EnemyDatabase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &467522
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11431964
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 136991c65445f9a44a6a169d17711481, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Database:
+  - ID: 0
+    Prefab: {fileID: 100034, guid: 1c4f5f97ea10f8a47a7c1974b8ea5bc7, type: 2}
+  - ID: 1
+    Prefab: {fileID: 100060, guid: 6eb0db0fd3b47974180319c0de785f78, type: 2}
+  - ID: 2
+    Prefab: {fileID: 100120, guid: 1591ac10aa6d5ce40a8822067067c8f6, type: 2}
+  - ID: 501
+    Prefab: {fileID: 100192, guid: ab292184e6df613429922ae5cf98f9ad, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 156376}
+  m_IsPrefabParent: 1

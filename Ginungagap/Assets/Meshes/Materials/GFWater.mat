@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GFWater
+  m_Shader: {fileID: 4800000, guid: ee3b2b05bd4852a4fa43142034e90034, type: 3}
+  m_ShaderKeywords: _LIGHTMAPPING_REALTIME
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SkyReflexion
+        second:
+          m_Texture: {fileID: 8900000, guid: a00c08e88461a2f4091c3532b679587d, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Waves
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bd3db3bf9a5c7740ae6d1c0cdbc86ed, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Wavescopy
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bd3db3bf9a5c7740ae6d1c0cdbc86ed, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node554
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FallOff
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a056241e2722dc46a7262a8e7073fd9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __SkyReflexion
+        second:
+          m_Texture: {fileID: 8900000, guid: a00c08e88461a2f4091c3532b679587d, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __Waves
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bd3db3bf9a5c7740ae6d1c0cdbc86ed, type: 3}
+          m_Scale: {x: 20, y: 20}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __Waves_copy
+        second:
+          m_Texture: {fileID: 2800000, guid: 9bd3db3bf9a5c7740ae6d1c0cdbc86ed, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: __FallOff
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Lightmapping
+        second: 1
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _WaterSpeed
+        second: .270000011
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _EmissionScaleUI
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _RefractionPower
+        second: .280000001
+      data:
+        first:
+          name: _node173
+        second: 0
+      data:
+        first:
+          name: _Wavespeed
+        second: .0500000007
+      data:
+        first:
+          name: _node564
+        second: 0
+      data:
+        first:
+          name: _node575
+        second: 0
+      data:
+        first:
+          name: _node592
+        second: 1.90999997
+      data:
+        first:
+          name: _Transparency
+        second: 1.17999995
+      data:
+        first:
+          name: _Autolight
+        second: .0700000003
+      data:
+        first:
+          name: _DiffusePower
+        second: .699999988
+      data:
+        first:
+          name: __RefractionPower
+        second: .209999993
+      data:
+        first:
+          name: __Wavespeed
+        second: .00999999978
+      data:
+        first:
+          name: __DiffusePower
+        second: .699999988
+      data:
+        first:
+          name: __Autolight
+        second: .5
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _WaterTint
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: __WaterTint
+        second: {r: .474264711, g: .510395586, b: .75, a: 1}
+      data:
+        first:
+          name: _EmissionColorUI
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _RefractionColor
+        second: {r: .221885815, g: .838235259, b: .659706414, a: 1}
+      data:
+        first:
+          name: __RefractionColor
+        second: {r: .473075271, g: .91911763, b: .476151407, a: 1}

@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\Basic_Environment.shader">
+    <Files>
+      <File FileName="Assets\Shaders\Basic_Environment.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\Water.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\NewGame_Button.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CombatManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Arena.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Dev\Unity Projects\Ginungagap\Assets\Scripts\CombatManager.cs" line="46" />
+      <Breakpoint file="D:\Dev\Unity Projects\Ginungagap\Assets\Scripts\CombatManager.cs" line="44" />
+      <Breakpoint file="D:\Dev\Unity Projects\Ginungagap\Assets\Scripts\Arena.cs" line="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
